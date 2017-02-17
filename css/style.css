@@ -1,0 +1,17 @@
+body {
+    background-color: #374744;
+    color: #F4EADE;
+}
+
+footer {
+    background-color: #3C3932;
+    color: #D9A7A3;
+}
+
+.container {
+    width: 90px;
+    background-color: #FFB264;
+    border: 1px solid #000000;
+    padding: 20px;
+    margin: 0 auto 0 auto
+}
